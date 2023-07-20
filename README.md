@@ -2,9 +2,9 @@
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 Student at Chongqing Technology and Business University in the third year
-- 💼 Frontend enthusiasts are keen to write highquicily code
-- ❤️ I like to use typescript and Vue to develop front-end projects
+- 👨‍🎓 Student at Chongqing Technology and Business University in the third year
+- 🌱 Frontend enthusiasts are keen to write highquicily code
+- 😄 I like to use typescript and Vue to develop front-end projects
 - 🧩 I am very interested in TypeScript type gymnastics, you can discuss learning with me
 - 💻 Coding is my passion
 
