@@ -1,14 +1,14 @@
 <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 🙋</h2>
 
-**𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
+**About me**
 
-- 👨‍🎓 Student at Chongqing Technology and Business University in the third year
-- 🌱 Frontend enthusiasts are keen to write highquicily code
-- 😄 I like to use typescript and Vue to develop front-end projects
-- 🧩 I am very interested in TypeScript type gymnastics, you can discuss learning with me
-- 💻 Coding is my passion
+- 👨‍🎓 Student at Chongqing Technology and Business University
+- 💪 My hobbies are fitness basketball and coding
+- 🥰 I like traveling and delicious food 
+- 👨‍💻 A Web Front-end Developer
+- ⌨ I'm working on my way...
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
