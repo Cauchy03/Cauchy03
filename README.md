@@ -6,7 +6,7 @@
 - 💪 My hobbies are fitness basketball and coding
 - 🥰 I like traveling and delicious food 
 - 👨‍💻 A Web Front-end Developer
-- ⌨ I'm working on my way...
+- ⌨ Stay hungry. Stay foolish.
 
 **Languages and Tools**  
 
