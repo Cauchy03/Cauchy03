@@ -28,9 +28,6 @@
 [![vscode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauchy03&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Cauchy03/Cauchy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
