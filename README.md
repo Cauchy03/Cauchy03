@@ -3,7 +3,7 @@
 **About me**
 
 - 👨‍🎓 Student at Chongqing Technology and Business University
-- 💪 My hobbies are fitness basketball and coding
+- 💪 My hobbies are fitness, basketball and coding
 - 🥰 I like traveling and delicious food 
 - 👨‍💻 A Web Front-end Developer
 - ⌨ Stay hungry. Stay foolish.
